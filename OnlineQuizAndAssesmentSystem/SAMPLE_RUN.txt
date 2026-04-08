@@ -1,0 +1,67 @@
+Sample Console Interaction
+
+Welcome to the Online Quiz & Assessment System
+Enter your name: Anita
+Enter your user ID: A102
+
+--- Main Menu ---
+1. Add Question (Admin)
+2. Start Quiz
+3. View Last Result
+4. Exit
+Enter choice (1-4): 1
+
+--- Add Question ---
+Enter question ID: 1
+Enter question text: Which keyword is used to inherit a class in Java?
+Enter option 1: extends
+Enter option 2: implements
+Enter option 3: super
+Enter option 4: this
+Enter correct option (1-4): 1
+Select difficulty for this question:
+1. Easy
+2. Medium
+3. Hard
+Enter choice (1-3): 1
+Question added successfully.
+
+--- Main Menu ---
+1. Add Question (Admin)
+2. Start Quiz
+3. View Last Result
+4. Exit
+Enter choice (1-4): 2
+
+--- Start Quiz ---
+User: Anita (A102)
+Select difficulty:
+1. Easy
+2. Medium
+3. Hard
+4. All
+Enter choice (1-4): 1
+
+Time left: 60 seconds
+Q1: Which keyword is used to inherit a class in Java?
+1. extends
+2. implements
+3. super
+4. this
+Your answer (1-4): 1
+
+--- Result ---
+Total Questions: 1
+Correct Answers: 1
+Wrong Answers: 0
+Final Score: 1
+Percentage: 100.00%
+Time Taken: 4 seconds
+
+--- Main Menu ---
+1. Add Question (Admin)
+2. Start Quiz
+3. View Last Result
+4. Exit
+Enter choice (1-4): 4
+Goodbye!
